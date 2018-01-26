@@ -1,0 +1,19 @@
+h1 {text-align: center}
+.pCenter {text-align: center}
+
+.pR {color:red}
+.pB {color:blue}
+.pG {color:green}
+
+.pBig {font-size: 75px}
+.pTiny {font-size: 10px}
+
+.pFont {font-family: Courier New}
+.pMulti {Color:orange; font-size: 75px; font-weight: bold}
+
+
+.pBold {font-weight: bold}
+
+img {outline-style: solid; outline-color: green; outline-width: 10px}
+
+.styledFont {font-family: arial; color:darkred}
